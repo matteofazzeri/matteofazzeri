@@ -1,8 +1,10 @@
 ## Hi there 👋
 
 
-- 🔭 I’m currently working on: Loot-tracker for Star Citizen
-- 🌱 I’m currently learning: .NET and Blazor
+- 🔭 I’m currently working on: 
+  - Loot-tracker for Star Citizen
+  - website to make .puml file editable
+- 🌱 I’m currently learning: .NET, Blazor & Java
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
