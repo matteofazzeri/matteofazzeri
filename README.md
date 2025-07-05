@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on: 
-  - Loot-tracker for [!Star Citizen ](https://robertsspaceindustries.com/en/)
+  - Loot-tracker for [![Star Citizen]](https://robertsspaceindustries.com/en/)
   - C++ Console Tetris
 - ⚡ I’m currently using C/C++ & Java for projects
 - 
