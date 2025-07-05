@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on: 
-  - Loot-tracker for Star Citizen
+  - Loot-tracker for [Star Citizen ](https://robertsspaceindustries.com/en/)
   - website to make .puml file editable
 - 🌱 I’m currently learning: .NET, Blazor & Java
 <!--
