@@ -2,9 +2,10 @@
 
 
 - 🔭 I’m currently working on: 
-  - Loot-tracker for [Star Citizen ](https://robertsspaceindustries.com/en/)
-  - website to make .puml file editable
-- 🌱 I’m currently learning: .NET, Blazor & Java
+  - Loot-tracker for [!Star Citizen ](https://robertsspaceindustries.com/en/)
+  - C++ Console Tetris
+- ⚡ I’m currently using C/C++ & Java for projects
+- 
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
