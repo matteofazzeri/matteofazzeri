@@ -3,9 +3,8 @@
 
 - 🔭 I’m currently working on: 
   - Loot-tracker for [Star Citizen](https://robertsspaceindustries.com/en/)
-  - C++ Console Tetris
-- ⚡ I’m currently using C/C++ & Java for projects
-- 
+  - Cinematch - A Match App to decide movies and series with your friends
+- ⚡ I’m currently using Js & Java SpringBoot for projects
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
