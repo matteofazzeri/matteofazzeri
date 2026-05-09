@@ -41,6 +41,9 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Proxmox](https://img.shields.io/badge/proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/pi--hole-96060C?style=for-the-badge&logo=pi-hole&logoColor=white)
+![Nginx Proxy Manager](https://img.shields.io/badge/nginx%20proxy%20manager-F15833?style=for-the-badge&logo=nginxproxymanager&logoColor=white)
 
 
 
